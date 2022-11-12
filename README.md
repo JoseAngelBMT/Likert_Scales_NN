@@ -1,8 +1,11 @@
 # Neural network models for processing Likert type survey data.
 
+Reaserch paper about performance of neural network models for processing Likert type data in Spanish and Jupyter's notebook code about models and solutions.
+
 The implementation of this project used Python 3.9 and Jupyter notebooks for executing lines of code.
 
-Files
+## Files
+
 * Questions.docx: Text file with the information of the questions.
 * analisis.ipynb: Analysis of the survey data.
 * clustering.ipynb: Feature reduction using autoencoders and clustering.
