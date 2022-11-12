@@ -1,4 +1,18 @@
-# TFM Likert Scales
+# Neural network models for processing Likert type survey data.
+
+The implementation of this project used Python 3.9 and Jupyter notebooks for executing lines of code.
+
+Files
+* Questions.docx: Text file with the information of the questions.
+* analisis.ipynb: Analysis of the survey data.
+* clustering.ipynb: Feature reduction using autoencoders and clustering.
+* load_model.ipynb: Loading neural network models to check results
+* model_dec.ipynb: Deep Embedded Clustering model creation and training
+* regresion.ipynb: Neural network models for regression using information from other authors' questions and models.
+
+______________________________________________________________________________________________________________________________________________________
+
+
 Trabajo Fin de Máster - Modelos de redes neuronales para el tratamiento de datos de encuestas tipo Likert
 
 La implementación de este proyecto utilizada Python 3.9 y los cuadernos Jupyter para ejecución de líneas de código.
