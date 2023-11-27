@@ -1,6 +1,7 @@
 # Neural network models for processing Likert type survey data.
 
-Reaserch paper about performance of neural network models for processing Likert type data in Spanish and Jupyter's notebook code about models and solutions.
+Reaserch paper about performance of neural network models for processing Likert type data in Spanish and Jupyter's notebook code about models and solutions. For more information about the whole process of the project as well as its creation, I did a research paper on this topic in Spanish at this url:
+https://drive.google.com/file/d/1TOJNroAuKdtuAWDfC_vCaiPDg7QOl1gz/view
 
 The implementation of this project used Python 3.9 and Jupyter notebooks for executing lines of code.
 
@@ -17,6 +18,9 @@ ________________________________________________________________________________
 
 
 Trabajo Fin de Máster - Modelos de redes neuronales para el tratamiento de datos de encuestas tipo Likert
+
+Para más información acerca de todo el proceso del proyecto así como su creación, realicé un paper de investigación sobre este tema en español en esta url:
+https://drive.google.com/file/d/1TOJNroAuKdtuAWDfC_vCaiPDg7QOl1gz/view
 
 La implementación de este proyecto utilizada Python 3.9 y los cuadernos Jupyter para ejecución de líneas de código.
 
